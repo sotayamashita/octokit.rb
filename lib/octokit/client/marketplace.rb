@@ -1,7 +1,7 @@
 module Octokit
   class Client
 
-    # Methods for the Apps API
+    # Methods for the Marketplace API
     module Marketplace
 
       # List all plans for your Marketplace listing
